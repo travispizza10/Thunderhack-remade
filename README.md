@@ -33,7 +33,7 @@
 
 This client is a fork of Thunderhack Recode. We are fully open source and aim to provide improved features and bug fixes.
 
-                                **Information**
+**Information**
 Minecraft version: Fabric 1.21 
 Default ClickGui keybind - P 
 Default prefix - @
