@@ -40,9 +40,14 @@ Default prefix - @
 Middle click the module to bind it or open the Keybind editor to search and bind keys on a visual keyboard.
 
 
+**Requires these mods:**
+FabricApi 1.21 https://modrinth.com/mod/fabric-api/version/0.100.4+1.21
+Java 21+  https://www.oracle.com/java/technologies/downloads/
+
+**Recommended to read:**
+Performance guide for Minecraft 1.20.4+ Clients
+Setup guide by @DevilishRak
 
 
 
 
-
-.
