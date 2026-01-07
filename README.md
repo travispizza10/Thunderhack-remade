@@ -41,7 +41,7 @@ Middle click the module to bind it or open the Keybind editor to search and bind
 
 
 **Requires these mods:**          
-FabricApi 1.21 https://modrinth.com/mod/fabric-api/version/0.100.4+1.21
+FabricApi 1.21 https://modrinth.com/mod/fabric-api/version/0.100.4+1.21                                                                       
 Java 21+  https://www.oracle.com/java/technologies/downloads/
 
 **Recommended to read:**
